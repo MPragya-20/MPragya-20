@@ -20,6 +20,8 @@
 <code><img height="40" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
+<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjrelwqGMjl6ct8aULoAcWXwuND-6PBkvOyC-KOZRdDWmeaMjgjKvyPixeY5zK0savjBI&usqp=CAU
+"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=MPragya-20&show_icons=true&theme=radical" width="400">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPragya-20&theme=cobalt&langs_count=8&layout=compact" />
