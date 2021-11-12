@@ -9,6 +9,6 @@
 ####  ⚡ Fun fact: I love to draw as well
 
 <img src="https://github-readme-stats.vercel.app/api?username=MPragya-20&show_icons=true&theme=ADD_THEME_HERE" width="400">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPragya-20&theme=<THEME_NAME>" />
-(https://github-readme-stats.vercel.app/api?username=MPragya-20)](https://github.com/MPragya-20/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPragya-20&theme=cobalt" />
+
 
