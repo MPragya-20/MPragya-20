@@ -25,4 +25,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MPragya-20&show_icons=true&theme=radical" width="400">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPragya-20&theme=cobalt&langs_count=8&layout=compact" />
 
+**Linked in **
+<code><a href = "https://www.linkedin.com/in/pragyamukherjee/"><img height="40" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png"></a></code>
 
