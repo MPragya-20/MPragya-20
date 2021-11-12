@@ -8,6 +8,6 @@
 ####  😄 Pronouns: (she/her)
 ####  ⚡ Fun fact: I love to draw as well
 
-<img src="https://github-readme-stats.vercel.app/api?username=MPragya-20&show_icons=true&theme=ADD_THEME_HERE" width="400"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPragya-20&theme=cobalt&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=MPragya-20&show_icons=true&theme=radical" width="400"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPragya-20&theme=cobalt&langs_count=8&layout=compact" />
 
 
