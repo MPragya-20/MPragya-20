@@ -4,7 +4,7 @@
 
 
 ###   🔭 I’m currently pursuing my Graduation in the field of Computer Science and Engineering
-####  🌱 I’m currently on my way to explore new Technologies
+#### I’m currently on my way to explore new Technologies
 ####  😄 Pronouns: (she/her)
 ####  ⚡ Fun fact: I love to draw as well
 
