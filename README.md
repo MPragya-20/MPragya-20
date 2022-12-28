@@ -5,7 +5,7 @@
 ###   🔭 I’m currently pursuing my Graduation in the field of Computer Science and Engineering.
 
 ####  😄 Pronouns: (she/her)
-####  ⚡ Fun fact: Just a girl who loves to code. Also, I love to draw realism and play guitar :D
+####  ⚡ Fun fact: Just a girl who loves to code, still learning. Also, I love to draw realism and play guitar :D
 
 
 
